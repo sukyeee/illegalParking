@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110 110" width="110" height="110">
+	<defs>
+		<image width="49" height="56" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADEAAAA4CAMAAABjTeDmAAAAAXNSR0IB2cksfwAAAGxQTFRFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdCL/qgAAACR0Uk5TAC3j/78MAfeWBb3ECekT9Qa2A6Fg8xoEMuf9DTxA5UILku3KgbYciAAAANJJREFUeJzV1msPgiAUBmDqFKbdywq7qNX//49hW4IbufNGsHo/6XaeDQ8gCDEYEiOjsXhFJhxANGlFygOUeQrz5k4aSUwhMdM1c0gsdM0ysFjpmnVgsdE1W0iInHZ7TIiDNM88YednhCqsPcgR8khUnFBhCGtUZ7II78svFmH2yiLc7hrCno+WOIQqe/5ClUM8e/k2yVcEPqoPvrwfBJtBeJXAKxFf7fiOwndtN38sVJnVkGi6e4VEjDMqxllb65obJJqaOyx87z6c+Aj8ZgnfXh8onxTGimNgOwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<path id="Shape 2" class="shp0" d="M15 5L95 5C100.53 5 105 9.47 105 15L105 95C105 100.53 100.53 105 95 105L15 105C9.47 105 5 100.53 5 95L5 15C5 9.47 9.47 5 15 5Z" />
+	<use id="레이어 1" href="#img1" x="34" y="28" />
+	<text id=" " style="transform: matrix(1,0,0,1,49,188)" >
+	</text>
+</svg>

@@ -1,0 +1,50 @@
+.parkloc-list{
+    width: 100%;
+    list-style: none;
+    .parkloc-item{
+        padding: 4px 8px;
+        color: black;
+        width: 100%;
+        border-top: 1px solid black;
+        cursor: pointer;
+        .parkloc-title{
+            font-size: 1rem;
+            font-weight: bold;
+            margin: 8px;
+        }
+        .parkloc-content{
+            display: flex;
+            align-items: flex-end;
+            justify-content: space-between;
+            margin: 8px;
+            line-height: 18px;
+            .parkloc-address{
+                font-size: 1rem;
+                overflow-wrap: break-word;
+            }
+            .parkloc-feature{
+                font-size: 0.9rem;
+            }
+            .parkloc-detail{
+                display: flex;
+                min-width: 48px;
+                margin-left: 8px;
+                .parkloc-distance{
+                    margin-left: 8px;
+                    white-space: nowrap;
+                    text-overflow: ellipsis;
+                    font-size: 1.3rem;
+                    font-weight: bold;
+                }
+            }
+        }
+        @media (max-width: 768px) {
+            .parkloc-detail{
+                height: 48px;
+                justify-content: space-between;
+                align-items: flex-end;
+                flex-direction: column;
+            }
+        }
+    }
+}

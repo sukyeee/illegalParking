@@ -1,0 +1,15 @@
+.search-container{
+    position: absolute;
+    z-index: 1000;
+    top: 0;
+    width: 100%;
+    height: auto;
+    transition: all .3s ease;
+    pointer-events: none;
+    padding: 8px 12px;
+    z-index: 1500;
+    pointer-events: auto;
+    .location-button{
+        display: flex;
+    }
+}

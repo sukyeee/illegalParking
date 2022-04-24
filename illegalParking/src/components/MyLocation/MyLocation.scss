@@ -1,0 +1,14 @@
+.my-location{
+    position: absolute;
+    right: 2px;
+    bottom: 220px;
+    width: 36px;
+    height: 36px;
+    border-radius: 1px solid black;
+    background-color: white;
+    border-radius: 50%;
+    padding: 4px;
+    z-index: 1000;
+    cursor: pointer;
+    box-shadow: 1px 1px 3px;
+}

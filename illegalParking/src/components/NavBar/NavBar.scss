@@ -1,0 +1,46 @@
+.navbar{
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 10vh;
+    padding: 8px 12px;
+    box-shadow: 1px 1px 3px;
+    background-color: white;
+    z-index: 1500;
+    .logo{
+        display: inline-block;
+        width: 64px;
+        height: 100%;
+        border-radius: 10px;
+        border: 1px solid black;
+        margin-top: 8px;
+        margin-bottom: 5px;
+    }
+    .login{
+        position: relative;
+        text-align: center;
+        width: 120px;
+        height: 35px;
+        font-size: 25px;
+        color: black;
+        border: 1px solid black;
+        border-radius: 5px;
+        transition: all 0.5s;
+        &:hover {
+            background-color:#0475f4;
+            color: black;
+        }
+    }
+}
+
+@media screen and (max-width: 375px){
+    .navbar{
+        .logo{
+            width: 48px;
+            height: 48px;
+        }
+    }
+
+}

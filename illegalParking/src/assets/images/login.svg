@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110 110" width="110" height="110">
+	<defs>
+		<image width="44" height="56" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAA4BAMAAAB07Qe/AAAAAXNSR0IB2cksfwAAACpQTFRFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAChPOiAAAAA50Uk5TGtT/AAdA+SAfHh33HNgDLdu3AAAAiklEQVR4nGNgVMICBBiEsAkrMmATVVLCLWyMAQZGGFNwoIVNsAuHFWMTNlVKxybspqRWjEXYIglJOZLZbUjKkYQtkZQju3sZQjmysNUmuHIUX56GK0dPEFnYhXVJEs4iZCUhB2L3Dg7PYw8qc+wBiyMacEQajijGlSCMh7UwqZmblNIHRxGGvcADAPpS5mo9zLaOAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<path id="Shape 2" class="shp0" d="M15 5L95 5C100.53 5 105 9.47 105 15L105 95C105 100.53 100.53 105 95 105L15 105C9.47 105 5 100.53 5 95L5 15C5 9.47 9.47 5 15 5Z" />
+	<use id="Layer 3" href="#img1" x="33" y="28" />
+	<text id=" " style="transform: matrix(1,0,0,1,49,188)" >
+	</text>
+</svg>
